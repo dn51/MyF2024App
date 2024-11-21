@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyF24ASApp</string>
+    <string name="edit_message">Enter A Message Here</string>
+    <string name="button_send">Send</string>
+</resources>
